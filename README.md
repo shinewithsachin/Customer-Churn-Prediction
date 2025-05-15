@@ -104,6 +104,7 @@ Scaler:
 -scaler.pkl
 
 ## 📷 Screenshots
+![Input-Output](assets/screenshot.png)
 
 
 ## License
