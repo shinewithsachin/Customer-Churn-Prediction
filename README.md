@@ -104,7 +104,8 @@ Scaler:
 -scaler.pkl
 
 ## 📷 Screenshots
-![Input-Output](assets/screenshot.png)
+![Input-Output](https://github.com/shinewithsachin/Customer-Churn-Prediction/blob/main/Screenshot%202025-05-15%20164536.png)
+![Input-Output](https://github.com/shinewithsachin/Customer-Churn-Prediction/blob/main/Screenshot%202025-05-15%20164555.png)
 
 
 ## License
