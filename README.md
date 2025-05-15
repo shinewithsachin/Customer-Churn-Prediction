@@ -48,6 +48,7 @@ The dataset used is `Churn_Modelling.csv`, which contains 10,000 records of cust
 ---
 
 ## 🏗 Project Structure
+
 ├── app.py # Streamlit app interface
 ├── prediction.ipynb # Notebook to demonstrate predictions
 ├── experiments.ipynb # Model training and testing
@@ -61,24 +62,22 @@ The dataset used is `Churn_Modelling.csv`, which contains 10,000 records of cust
 ├── LICENSE # Project license (MIT)
 └── README.md # Project documentation
 
-
----
-
 ## 💻 Getting Started Locally
 
-# 1. Clone the Repository
+### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/shinewithsachin/Customer-Churn-Prediction.git
 cd Customer-Churn-Prediction
 
- 2. Set Up the Environment
+### 2. Set Up the Environment
 pip install -r requirements.txt
 
 ### 3. Run the Streamlit App
 streamlit run app.py
 
 ## 🧪 Model Details
+
 Architecture: Deep Neural Network
 
 Framework: TensorFlow/Keras
@@ -86,13 +85,17 @@ Framework: TensorFlow/Keras
 Evaluation Metrics: Accuracy, Precision, Recall
 
 Encoders:
-
-label_encoder_gender.pkl
-
-onehot_encoder_geo.pkl
+-label_encoder_gender.pkl
+-onehot_encoder_geo.pkl
 
 Scaler:
+-scaler.pkl
 
-scaler.pkl
+## 📷 Screenshots
+
+
+## 📄 License
+This project is licensed under the MIT License — see the LICENSE file for details.
+
 
 
