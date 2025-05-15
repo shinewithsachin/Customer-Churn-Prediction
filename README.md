@@ -50,16 +50,27 @@ The dataset used is `Churn_Modelling.csv`, which contains 10,000 records of cust
 ## 🏗 Project Structure
 
 ├── app.py # Streamlit app interface
+
 ├── prediction.ipynb # Notebook to demonstrate predictions
+
 ├── experiments.ipynb # Model training and testing
+
 ├── model.h5 # Trained deep learning model
+
 ├── label_encoder_gender.pkl # Label encoder for gender feature
+
 ├── onehot_encoder_geo.pkl # One-hot encoder for geography
+
 ├── scaler.pkl # Feature scaling transformer
+
 ├── Churn_Modelling.csv # Raw dataset
+
 ├── requirements.txt # Python dependencies
+
 ├── runtime.txt # Python version config for deployment
+
 ├── LICENSE # Project license (MIT)
+
 └── README.md # Project documentation
 
 ## 💻 Getting Started Locally
@@ -86,6 +97,7 @@ Evaluation Metrics: Accuracy, Precision, Recall
 
 Encoders:
 -label_encoder_gender.pkl
+
 -onehot_encoder_geo.pkl
 
 Scaler:
@@ -94,8 +106,7 @@ Scaler:
 ## 📷 Screenshots
 
 
-## 📄 License
-This project is licensed under the MIT License — see the LICENSE file for details.
-
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
